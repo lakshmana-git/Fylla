@@ -4,7 +4,7 @@ Static landing page created with HTML & CSS. It is responsive, responsiveness of
 ## Demo
 https://lakshmana-git.github.io/Fylla/
 
-## Reference
+## Design Reference
 https://webflow.com/templates/html/fylla-agency-website-template
 
 
